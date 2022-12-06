@@ -1,0 +1,33 @@
+.img-fluid{
+    /* 將圖片寬度設為100%，高度為自動縮放 */
+    width: 60%;
+    height: auto;
+}
+
+
+.bg{
+    background: #ffffff;
+    /* 浮動排版定位點 */
+    position: relative;
+}
+
+.center{
+    text-align: center;
+  }
+  .left{
+    text-align: left;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
